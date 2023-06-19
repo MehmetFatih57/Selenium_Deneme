@@ -8,6 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import java.time.Duration;
 
 public class C06_AutomationPractice {
+
     public static void main(String[] args) {
         //1. Tarayıcıyı başlatın
         System.setProperty("webdriver.chrome.driver","src/resources/drivers/chromedriver.exe");
